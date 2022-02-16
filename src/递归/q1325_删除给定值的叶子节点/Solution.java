@@ -1,7 +1,7 @@
-package 閫掑綊.q1325_鍒犻櫎缁欏畾鍊肩殑鍙跺瓙鑺傜偣;
+package 递归.q1325_删除给定值的叶子节点;
 
 /**
- * 閫掑綊 o(n)
+ * 递归 o(n)
  */
 public class Solution {
 
