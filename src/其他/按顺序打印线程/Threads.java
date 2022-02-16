@@ -1,4 +1,4 @@
-package å…¶ä»–.æŒ‰é¡ºåºæ‰“å°çº¿ç¨‹;
+package ÆäËû.°´Ë³Ğò´òÓ¡Ïß³Ì;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;
@@ -25,7 +25,7 @@ public class Threads implements Runnable {
             lock.lock();
             try {
                 while (this.name.equals(s[count % 3]) && count < MAX) {
-                    System.out.println(name + "ï¼Œcountï¼š" + count);
+                    System.out.println(name + "£¬count£º" + count);
                     count++;
                 }
             } catch (Exception e) {

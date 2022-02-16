@@ -1,7 +1,7 @@
-package 分治法.q34_在排序数组中查找元素的第一个和最后一个位置;
+package ���η�.q34_�����������в���Ԫ�صĵ�һ�������һ��λ��;
 
 /**
- * 二分法 o(log(n))
+ * ���ַ� o(log(n))
  */
 public class Solution {
 

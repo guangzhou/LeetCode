@@ -1,9 +1,9 @@
-package å…¶ä»–.ä¸¢ç»ç’ƒçƒ;
+package ÆäËû.¶ª²£Á§Çò;
 
 import java.util.Scanner;
 
 /**
- * F(N) = min{ max(1(ç¢äº†), F(N - 1) + 1(æ²¡ç¢)), max(2, F(N - 2) + 1), max(3, F(N - 3) + 1), â€¦â€¦ , max(N - 1, F(1))
+ * F(N) = min{ max(1(ËéÁË), F(N - 1) + 1(Ã»Ëé)), max(2, F(N - 2) + 1), max(3, F(N - 3) + 1), ¡­¡­ , max(N - 1, F(1))
  */
 public class Solution {
     public static void main(String[] args) {

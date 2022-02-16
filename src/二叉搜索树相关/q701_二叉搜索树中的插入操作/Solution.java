@@ -1,7 +1,7 @@
-package äºŒå‰æœç´¢æ ‘ç›¸å…³.q701_äºŒå‰æœç´¢æ ‘ä¸­çš„æ’å…¥æ“ä½œ;
+package ¶þ²æËÑË÷Ê÷Ïà¹Ø.q701_¶þ²æËÑË÷Ê÷ÖÐµÄ²åÈë²Ù×÷;
 
 /**
- * é€’å½’ï¼ˆå¤§äºŽæ’å…¥å³å­æ ‘ï¼Œå°äºŽæ’å…¥å·¦å­æ ‘ï¼‰ o(n)
+ * µÝ¹é£¨´óÓÚ²åÈëÓÒ×ÓÊ÷£¬Ð¡ÓÚ²åÈë×ó×ÓÊ÷£© o(n)
  */
 public class Solution {
 

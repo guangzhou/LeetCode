@@ -1,4 +1,4 @@
-package åˆ†æ²»æ³•.q23_åˆå¹¶Kä¸ªæ’åºé“¾è¡¨;
+package ·ÖÖÎ·¨.q23_ºÏ²¢K¸öÅÅĞòÁ´±í;
 
 public class ListNode {
     int val;

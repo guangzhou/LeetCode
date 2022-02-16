@@ -1,11 +1,11 @@
-package å…¶ä»–.äºŒå‰æ ‘çš„å‰ä¸­åŽåºéåŽ†;
+package ÆäËû.¶þ²æÊ÷µÄÇ°ÖÐºóÐò±éÀú;
 
 import java.util.Stack;
 
 public class Main {
 
     /**
-     * å‰åºéåŽ† - é€’å½’
+     * Ç°Ðò±éÀú - µÝ¹é
      *
      * @param root
      */
@@ -19,7 +19,7 @@ public class Main {
     }
 
     /**
-     * å‰åºéåŽ† - éžé€’å½’
+     * Ç°Ðò±éÀú - ·ÇµÝ¹é
      *
      * @param root
      */
@@ -37,7 +37,7 @@ public class Main {
     }
 
     /**
-     * ä¸­åºéåŽ† - é€’å½’
+     * ÖÐÐò±éÀú - µÝ¹é
      *
      * @param root
      */
@@ -51,7 +51,7 @@ public class Main {
     }
 
     /**
-     * ä¸­åºéåŽ† - éžé€’å½’
+     * ÖÐÐò±éÀú - ·ÇµÝ¹é
      *
      * @param root
      */
@@ -69,7 +69,7 @@ public class Main {
     }
 
     /**
-     * åŽåºéåŽ† - é€’å½’
+     * ºóÐò±éÀú - µÝ¹é
      *
      * @param root
      */
@@ -83,7 +83,7 @@ public class Main {
     }
 
     /**
-     * åŽåºéåŽ† - éžé€’å½’
+     * ºóÐò±éÀú - ·ÇµÝ¹é
      *
      * @param root
      */

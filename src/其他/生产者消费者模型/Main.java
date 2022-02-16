@@ -1,11 +1,11 @@
-package å…¶ä»–.ç”Ÿäº§è€…æ¶ˆè´¹è€…æ¨¡å‹;
+package ÆäËû.Éú²úÕßÏû·ÑÕßÄ£ĞÍ;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * ç”Ÿäº§è€…æ¶ˆè´¹è€…æ¨¡å‹
+ * Éú²úÕßÏû·ÑÕßÄ£ĞÍ
  */
 public class Main {
 
@@ -34,7 +34,7 @@ public class Main {
                         c1.await();
                     }
                     count++;
-                    System.out.println(Thread.currentThread().getName() + "ç”Ÿäº§è€…ç”Ÿäº§ï¼Œç›®å‰å…±æœ‰ï¼š" + count);
+                    System.out.println(Thread.currentThread().getName() + "Éú²úÕßÉú²ú£¬Ä¿Ç°¹²ÓĞ£º" + count);
                     c2.signal();
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -61,7 +61,7 @@ public class Main {
                         c2.await();
                     }
                     count--;
-                    System.out.println(Thread.currentThread().getName() + "æ¶ˆè´¹è€…æ¶ˆè´¹ï¼Œç›®å‰å…±æœ‰ï¼š" + count);
+                    System.out.println(Thread.currentThread().getName() + "Ïû·ÑÕßÏû·Ñ£¬Ä¿Ç°¹²ÓĞ£º" + count);
                     c1.signal();
                 } catch (Exception e) {
                     e.printStackTrace();

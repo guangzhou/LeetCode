@@ -1,17 +1,17 @@
-package å…¶ä»–.çº¿ç¨‹å®‰å…¨çš„æœ¬åœ°ç¼“å­˜;
+package ÆäËû.Ïß³Ì°²È«µÄ±¾µØ»º´æ;
 
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * çº¿ç¨‹å®‰å…¨çš„æœ¬åœ°ç¼“å­˜
+ * Ïß³Ì°²È«µÄ±¾µØ»º´æ
  */
 public class Main {
     Map<Object, Object> cache = new ConcurrentHashMap<>();
 
     public static Object load(Object key) {
-        String value = key + "ï¼švalue";
+        String value = key + "£ºvalue";
         return value;
     }
 

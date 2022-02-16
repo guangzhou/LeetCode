@@ -1,7 +1,7 @@
-package åˆ†æ²»æ³•.q23_åˆå¹¶Kä¸ªæ’åºé“¾è¡¨;
+package ·ÖÖÎ·¨.q23_ºÏ²¢K¸öÅÅĞòÁ´±í;
 
 /**
- * åšk-1æ¬¡mergeTwoLists  o(N*k) å¯ç”¨åˆ†æ²»æ³•ä¼˜åŒ–è‡³o(N*log(k))) Nä¸ºæ‰€æœ‰listçš„æ€»èŠ‚ç‚¹æ•°
+ * ×ök-1´ÎmergeTwoLists  o(N*k) ¿ÉÓÃ·ÖÖÎ·¨ÓÅ»¯ÖÁo(N*log(k))) NÎªËùÓĞlistµÄ×Ü½ÚµãÊı
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

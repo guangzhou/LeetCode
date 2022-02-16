@@ -1,7 +1,7 @@
-package åˆ†æ²»æ³•.q33_æœç´¢æ—‹è½¬æ’åºæ•°ç»„;
+package ·ÖÖÎ·¨.q33_ËÑË÷Ğı×ªÅÅĞòÊı×é;
 
 /**
- * å¾ªç¯æœ‰åºæ•°ç»„æŸ¥æ‰¾ äºŒåˆ†æ³•o(log(n))
+ * Ñ­»·ÓĞĞòÊı×é²éÕÒ ¶ş·Ö·¨o(log(n))
  */
 class Solution {
     public int search(int[] nums, int target) {
@@ -16,15 +16,15 @@ class Solution {
         if (nums[mid] == target) {
             return mid;
         }
-        //nums[mid] < nums[high]è¯´æ˜ååŠæ®µæœ‰åº
+        //nums[mid] < nums[high]ËµÃ÷ºó°ë¶ÎÓĞĞò
         if (nums[mid] < nums[high]) {
-            //è¯´æ˜targetåœ¨ååŠæ®µ
+            //ËµÃ÷targetÔÚºó°ë¶Î
             if (nums[mid] < target && target <= nums[high]) {
                 return search(nums, mid + 1, high, target);
             }
             return search(nums, low, mid - 1, target);
         } else {
-            //ååŠæ®µæ— åºå‰åŠæ®µæœ‰åºï¼Œtargetåœ¨å‰åŠæ®µ
+            //ºó°ë¶ÎÎŞĞòÇ°°ë¶ÎÓĞĞò£¬targetÔÚÇ°°ë¶Î
             if (nums[low] <= target && target < nums[mid]) {
                 return search(nums, low, mid - 1, target);
             }
