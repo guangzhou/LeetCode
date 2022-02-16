@@ -1,10 +1,10 @@
-package 鍖洪棿鍚堝苟.q56_鍚堝苟鍖洪棿;
+package 区间合并.q56_合并区间;
 
 
 import java.util.*;
 
 /**
- * 鍏堟牴鎹畇tart杩涜鎺掑簭涔嬪悗merge o(n*log(n))
+ * 先根据start进行排序之后merge o(n*log(n))
  */
 class Solution {
     public int[][] merge(int[][] intervals) {

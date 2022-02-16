@@ -1,9 +1,9 @@
-package æ ˆç›¸å…³.q232_ç”¨æ ˆå®ç°é˜Ÿåˆ—.f1;
+package Õ»Ïà¹Ø.q232_ÓÃÕ»ÊµÏÖ¶ÓÁĞ.f1;
 
 import java.util.Stack;
 
 /**
- * åŒæ ˆ å…¥é˜Ÿo(n) å‡ºé˜Ÿo(1)
+ * Ë«Õ» Èë¶Óo(n) ³ö¶Óo(1)
  */
 class MyQueue {
 

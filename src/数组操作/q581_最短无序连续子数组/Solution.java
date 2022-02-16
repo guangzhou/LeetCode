@@ -1,9 +1,9 @@
-package 鏁扮粍鎿嶄綔.q581_鏈�鐭棤搴忚繛缁瓙鏁扮粍;
+package 数组操作.q581_最短无序连续子数组;
 
 import java.util.Arrays;
 
 /**
- * 鍒╃敤鎺掑簭 o(n*log(n))
+ * 利用排序 o(n*log(n))
  */
 public class Solution {
 

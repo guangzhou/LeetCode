@@ -1,9 +1,9 @@
-package æ ˆç›¸å…³.q224_åŸºæœ¬è®¡ç®—å™¨.f2;
+package Õ»Ïà¹Ø.q224_»ù±¾¼ÆËãÆ÷.f2;
 
 import java.util.Stack;
 
 /**
- * å•æ ˆ æ‹†åˆ†é€’å½’æ€æƒ³ o(n)
+ * µ¥Õ» ²ğ·Öµİ¹éË¼Ïë o(n)
  */
 public class Solution {
 

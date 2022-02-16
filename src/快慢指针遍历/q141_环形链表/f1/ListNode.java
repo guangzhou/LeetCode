@@ -1,4 +1,4 @@
-package 蹇參鎸囬拡閬嶅巻.q141_鐜舰閾捐〃.f1;
+package 快慢指针遍历.q141_环形链表.f1;
 
 
 public class ListNode {

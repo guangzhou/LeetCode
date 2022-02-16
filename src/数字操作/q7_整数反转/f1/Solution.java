@@ -1,7 +1,7 @@
-package 鏁板瓧鎿嶄綔.q7_鏁存暟鍙嶈浆.f1;
+package 数字操作.q7_整数反转.f1;
 
 /**
- * 杞垚String o(n) 鎹曡幏寮傚父鍒ゆ柇鏄惁婧㈠嚭
+ * 转成String o(n) 捕获异常判断是否溢出
  */
 public class Solution {
     public int reverse(int x) {

@@ -1,10 +1,10 @@
-package å›æº¯æ³•.q46_å…¨æ’åˆ—.f1;
+package »ØËİ·¨.q46_È«ÅÅÁĞ.f1;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * æ’é˜Ÿæ³• o((n-1)!+(n-2)!+Â·Â·Â·+2!+1!)
+ * ²å¶Ó·¨ o((n-1)!+(n-2)!+¡¤¡¤¡¤+2!+1!)
  */
 public class Solution {
     public List<List<Integer>> fc(List<List<Integer>> nums, int c) {
@@ -36,6 +36,6 @@ public class Solution {
 
     public static void main(String[] args) {
         new Solution().permute(new int[]{1, 2, 3});
-        //4â€”>3ï¼+2ï¼+1ï¼
+        //4¡ª>3£¡+2£¡+1£¡
     }
 }

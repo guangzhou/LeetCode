@@ -1,4 +1,4 @@
-package 鏍戠殑閬嶅巻.q144_浜屽弶鏍戠殑鍓嶅簭閬嶅巻;
+package 树的遍历.q144_二叉树的前序遍历;
 
 public class TreeNode {
     int val;

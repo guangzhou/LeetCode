@@ -1,10 +1,10 @@
-package å¿«æ…¢æŒ‡é’ˆéå†.q141_ç¯å½¢é“¾è¡¨.f1;
+package ¿ìÂıÖ¸Õë±éÀú.q141_»·ĞÎÁ´±í.f1;
 
 import java.util.HashSet;
 import java.util.Set;
 
 /**
- * å“ˆå¸Œè¡¨ o(n)
+ * ¹şÏ£±í o(n)
  */
 public class Solution {
 

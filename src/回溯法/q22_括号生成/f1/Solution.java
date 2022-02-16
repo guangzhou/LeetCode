@@ -1,9 +1,9 @@
-package å›æº¯æ³•.q22_æ‹¬å·ç”Ÿæˆ.f1;
+package »ØËİ·¨.q22_À¨ºÅÉú³É.f1;
 
 import java.util.*;
 
 /**
- * æš´åŠ›æ³• o(2^2n*n)
+ * ±©Á¦·¨ o(2^2n*n)
  */
 public class Solution {
 

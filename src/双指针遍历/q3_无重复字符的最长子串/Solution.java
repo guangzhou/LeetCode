@@ -1,9 +1,9 @@
-package åŒæŒ‡é’ˆéå†.q3_æ— é‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²;
+package Ë«Ö¸Õë±éÀú.q3_ÎŞÖØ¸´×Ö·ûµÄ×î³¤×Ó´®;
 
 import java.util.HashMap;
 
 /**
- * Hash+åŒæŒ‡é’ˆæ»‘åŠ¨çª—å£ o(n)
+ * Hash+Ë«Ö¸Õë»¬¶¯´°¿Ú o(n)
  */
 public class Solution {
     public int lengthOfLongestSubstring(String s) {

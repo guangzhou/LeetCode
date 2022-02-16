@@ -1,10 +1,10 @@
-package é€’å½’.q101_å¯¹ç§°äºŒå‰æ ‘.f1;
+package µİ¹é.q101_¶Ô³Æ¶ş²æÊ÷.f1;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * å±‚åºéå†æ”¾å…¥listå¯¹æ¯” o(n*log(n))
+ * ²ãĞò±éÀú·ÅÈëlist¶Ô±È o(n*log(n))
  */
 public class Solution {
     public boolean isSymmetric(List<TreeNode> nodes) {

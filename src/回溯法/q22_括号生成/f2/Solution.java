@@ -1,10 +1,10 @@
-package å›æº¯æ³•.q22_æ‹¬å·ç”Ÿæˆ.f2;
+package »ØËİ·¨.q22_À¨ºÅÉú³É.f2;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * å›æº¯æ³• o((4^n)/(n^1/2))
+ * »ØËİ·¨ o((4^n)/(n^1/2))
  */
 public class Solution {
 

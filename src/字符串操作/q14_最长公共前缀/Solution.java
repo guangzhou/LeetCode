@@ -1,7 +1,7 @@
-package å­—ç¬¦ä¸²æ“ä½œ.q14_æœ€é•¿å…¬å…±å‰ç¼€;
+package ×Ö·û´®²Ù×÷.q14_×î³¤¹«¹²Ç°×º;
 
 /**
- * æ°´å¹³æ‰«æ o(n)
+ * Ë®Æ½É¨Ãè o(n)
  */
 public class Solution {
     public String longestCommonPrefix(String[] strs) {

@@ -1,7 +1,7 @@
-package æ•°å­—æ“ä½œ.q172_é˜¶ä¹˜åçš„é›¶.f2;
+package Êı×Ö²Ù×÷.q172_½×³ËºóµÄÁã.f2;
 
 /**
- * åŸºäºæ–¹æ³•ä¸€ï¼Œå¯»æ‰¾5å‡ºç°çš„è§„å¾‹o(log(n))
+ * »ùÓÚ·½·¨Ò»£¬Ñ°ÕÒ5³öÏÖµÄ¹æÂÉo(log(n))
  */
 public class Solution {
     public int trailingZeroes(int n) {

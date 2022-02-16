@@ -1,7 +1,7 @@
-package æ•°å­—æ“ä½œ.q258_å„ä½ç›¸åŠ ;
+package Êı×Ö²Ù×÷.q258_¸÷Î»Ïà¼Ó;
 
 /**
- * æ‰¾è§„å¾‹ o(1) xyz=100*x+10*y+z=99*x+9*y+x+y+z
+ * ÕÒ¹æÂÉ o(1) xyz=100*x+10*y+z=99*x+9*y+x+y+z
  */
 public class Solution {
 

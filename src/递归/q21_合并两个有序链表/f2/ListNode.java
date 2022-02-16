@@ -1,4 +1,4 @@
-package 閫掑綊.q21_鍚堝苟涓や釜鏈夊簭閾捐〃.f2;
+package 递归.q21_合并两个有序链表.f2;
 
 public class ListNode {
     int val;

@@ -1,7 +1,7 @@
-package æ•°å­—æ“ä½œ.q9_å›æ–‡æ•°;
+package Êı×Ö²Ù×÷.q9_»ØÎÄÊı;
 
 /**
- * ä¸è½¬æ¢æˆString åè½¬ä¸€åŠçš„æ•°å­—o(log(n))
+ * ²»×ª»»³ÉString ·´×ªÒ»°ëµÄÊı×Öo(log(n))
  */
 public class Solution {
     public boolean isPalindrome(int x) {

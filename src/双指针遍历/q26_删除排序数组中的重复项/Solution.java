@@ -1,7 +1,7 @@
-package åŒæŒ‡é’ˆéå†.q26_åˆ é™¤æ’åºæ•°ç»„ä¸­çš„é‡å¤é¡¹;
+package Ë«Ö¸Õë±éÀú.q26_É¾³ıÅÅĞòÊı×éÖĞµÄÖØ¸´Ïî;
 
 /**
- * åŒæŒ‡é’ˆ o(n)
+ * Ë«Ö¸Õë o(n)
  */
 public class Solution {
     public int removeDuplicates(int[] nums) {

@@ -1,9 +1,9 @@
-package é“¾è¡¨æ“ä½œ.q2_ä¸¤æ•°ç›¸åŠ ;
+package Á´±í²Ù×÷.q2_Á½ÊýÏà¼Ó;
 
 /**
- * ä¸¤æ¬¡éåŽ†
- * ç¬¬ä¸€æ¬¡éåŽ†ï¼šä¸¤ä¸ªé“¾è¡¨å¯¹åº”æ¯ä¸ªèŠ‚ç‚¹åˆ†åˆ«å–å’Œï¼Œè‹¥å«æœ‰ç©ºèŠ‚ç‚¹åˆ™ç©ºèŠ‚ç‚¹å–0ï¼Œäº§ç”Ÿä¸€ä¸ªæ–°é“¾è¡¨ã€‚
- * ç¬¬äºŒæ¬¡éåŽ†ï¼šå¯¹å–å®Œå’Œçš„æ–°é“¾è¡¨éåŽ†ï¼Œåˆ¤æ–­å½“å‰çš„valæ˜¯å¦å¤§äºŽç­‰äºŽ10ï¼Œå¤§äºŽæˆ–ç­‰äºŽåˆ™å…¶è‡ªèº«-10å…¶nextåŠ 1ï¼Œè‹¥nextä¸ºç©ºåˆ™æ–°å»º0èŠ‚ç‚¹ã€‚
+ * Á½´Î±éÀú
+ * µÚÒ»´Î±éÀú£ºÁ½¸öÁ´±í¶ÔÓ¦Ã¿¸ö½Úµã·Ö±ðÈ¡ºÍ£¬Èôº¬ÓÐ¿Õ½ÚµãÔò¿Õ½ÚµãÈ¡0£¬²úÉúÒ»¸öÐÂÁ´±í¡£
+ * µÚ¶þ´Î±éÀú£º¶ÔÈ¡ÍêºÍµÄÐÂÁ´±í±éÀú£¬ÅÐ¶Ïµ±Ç°µÄvalÊÇ·ñ´óÓÚµÈÓÚ10£¬´óÓÚ»òµÈÓÚÔòÆä×ÔÉí-10Æänext¼Ó1£¬ÈônextÎª¿ÕÔòÐÂ½¨0½Úµã¡£
  */
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

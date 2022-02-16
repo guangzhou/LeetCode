@@ -1,9 +1,9 @@
-package å †ç›¸å…³.q347_å‰Kä¸ªé«˜é¢‘å…ƒç´ ;
+package ¶ÑÏà¹Ø.q347_Ç°K¸ö¸ßÆµÔªËØ;
 
 import java.util.*;
 
 /**
- * åˆ©ç”¨å¤§æ ¹å †ï¼ˆPriorityQueueï¼‰å®ç° o(n*log(k))
+ * ÀûÓÃ´ó¸ù¶Ñ£¨PriorityQueue£©ÊµÏÖ o(n*log(k))
  */
 class Solution {
     public List<Integer> topKFrequent(int[] nums, int k) {

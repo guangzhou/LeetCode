@@ -1,10 +1,10 @@
-package æ•°ç»„æ“ä½œ.q78_å­é›†;
+package Êı×é²Ù×÷.q78_×Ó¼¯;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * å‘å­é›†ä¸­æ·»åŠ å­é›†åˆ o(n*2^n)
+ * Ïò×Ó¼¯ÖĞÌí¼Ó×Ó¼¯ºÏ o(n*2^n)
  */
 public class Solution {
 

@@ -1,9 +1,9 @@
-package æ•°ç»„æ“ä½œ.q945_ä½¿æ•°ç»„å”¯ä¸€çš„æœ€å°å¢é‡;
+package Êı×é²Ù×÷.q945_Ê¹Êı×éÎ¨Ò»µÄ×îĞ¡ÔöÁ¿;
 
 import java.util.Arrays;
 
 /**
- * å…ˆæ’åºå†éå†ä¸€æ¬¡ o(n*log(n))
+ * ÏÈÅÅĞòÔÙ±éÀúÒ»´Î o(n*log(n))
  */
 public class Solution {
 

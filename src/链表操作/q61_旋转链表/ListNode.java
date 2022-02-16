@@ -1,4 +1,4 @@
-package 閾捐〃鎿嶄綔.q61_鏃嬭浆閾捐〃;
+package 链表操作.q61_旋转链表;
 
 public class ListNode {
     int val;

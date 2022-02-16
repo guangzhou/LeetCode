@@ -1,9 +1,9 @@
-package å †ç›¸å…³.q215_æ•°ç»„ä¸­çš„ç¬¬Kä¸ªæœ€å¤§å…ƒç´ ;
+package ¶ÑÏà¹Ø.q215_Êı×éÖĞµÄµÚK¸ö×î´óÔªËØ;
 
 import java.util.PriorityQueue;
 
 /**
- * åˆ©ç”¨å¤§æ ¹å †å®ç° o(n*log(k))
+ * ÀûÓÃ´ó¸ù¶ÑÊµÏÖ o(n*log(k))
  */
 public class Solution {
 

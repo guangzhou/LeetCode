@@ -1,10 +1,10 @@
-package åŠ¨æ€è§„åˆ’.q118_æ¨è¾‰ä¸‰è§’;
+package ¶¯Ì¬¹æ»®.q118_Ñî»ÔÈı½Ç;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * æ‰¾è§„å¾‹ï¼ŒåŠ¨æ€è§„åˆ’ o(n^2)
+ * ÕÒ¹æÂÉ£¬¶¯Ì¬¹æ»® o(n^2)
  */
 public class Solution {
 

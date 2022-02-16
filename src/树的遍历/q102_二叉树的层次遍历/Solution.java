@@ -1,4 +1,4 @@
-package 鏍戠殑閬嶅巻.q102_浜屽弶鏍戠殑灞傛閬嶅巻;
+package 树的遍历.q102_二叉树的层次遍历;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * 鍒╃敤闃熷垪杩唬 o(n)
+ * 利用队列迭代 o(n)
  */
 public class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {

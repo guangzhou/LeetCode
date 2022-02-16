@@ -1,11 +1,11 @@
-package æ ‘çš„éå†.q144_äºŒå‰æ ‘çš„å‰åºéå†;
+package Ê÷µÄ±éÀú.q144_¶ş²æÊ÷µÄÇ°Ğò±éÀú;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
 /**
- * éé€’å½’æ³• o(n)
+ * ·Çµİ¹é·¨ o(n)
  */
 public class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {

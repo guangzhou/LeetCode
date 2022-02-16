@@ -1,11 +1,11 @@
-package 鏍戠殑閬嶅巻.q94_浜屽弶鏍戠殑涓簭閬嶅巻;
+package 树的遍历.q94_二叉树的中序遍历;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
 /**
- * 闈為�掑綊 o(n)
+ * 非递归 o(n)
  */
 public class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {

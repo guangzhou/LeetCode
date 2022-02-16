@@ -1,10 +1,10 @@
-package å›æº¯æ³•.q46_å…¨æ’åˆ—.f2;
+package »ØËİ·¨.q46_È«ÅÅÁĞ.f2;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * å›æº¯æ³•(DFSæ·±åº¦ä¼˜å…ˆéå†) o(n*n!)
+ * »ØËİ·¨(DFSÉî¶ÈÓÅÏÈ±éÀú) o(n*n!)
  */
 public class Solution {
 
@@ -37,7 +37,7 @@ public class Solution {
                 path.add(nums[i]);
                 used[i] = true;
                 dfs(nums, len, depth + 1, path, used, res);
-                // çŠ¶æ€é‡ç½®ï¼Œæ˜¯ä»æ·±å±‚ç»“ç‚¹å›åˆ°æµ…å±‚ç»“ç‚¹çš„è¿‡ç¨‹ï¼Œä»£ç åœ¨å½¢å¼ä¸Šå’Œé€’å½’ä¹‹å‰æ˜¯å¯¹ç§°çš„
+                // ×´Ì¬ÖØÖÃ£¬ÊÇ´ÓÉî²ã½áµã»Øµ½Ç³²ã½áµãµÄ¹ı³Ì£¬´úÂëÔÚĞÎÊ½ÉÏºÍµİ¹éÖ®Ç°ÊÇ¶Ô³ÆµÄ
                 used[i] = false;
                 path.remove(depth);
             }

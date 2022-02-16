@@ -1,7 +1,7 @@
-package 蹇參鎸囬拡閬嶅巻.q141_鐜舰閾捐〃.f2;
+package 快慢指针遍历.q141_环形链表.f2;
 
 /**
- * 蹇參鎸囬拡 o(n)
+ * 快慢指针 o(n)
  */
 public class Solution {
 

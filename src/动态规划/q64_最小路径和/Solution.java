@@ -1,7 +1,7 @@
-package åŠ¨æ€è§„åˆ’.q64_æœ€å°è·¯å¾„å’Œ;
+package ¶¯Ì¬¹æ»®.q64_×îĞ¡Â·¾¶ºÍ;
 
 /**
- * åŠ¨æ€è§„åˆ’ dp(j)=grid(i,j)+min(dp(j),dp(j+1)) o(m*n)
+ * ¶¯Ì¬¹æ»® dp(j)=grid(i,j)+min(dp(j),dp(j+1)) o(m*n)
  */
 public class Solution {
 

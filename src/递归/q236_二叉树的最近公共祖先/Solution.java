@@ -1,7 +1,7 @@
-package é€’å½’.q236_äºŒå‰æ ‘çš„æœ€è¿‘å…¬å…±ç¥–å…ˆ;
+package µÝ¹é.q236_¶þ²æÊ÷µÄ×î½ü¹«¹²×æÏÈ;
 
 /**
- * LCAäºŒå‰æ ‘çš„æœ€è¿‘å…¬å…±ç¥–å…ˆï¼ˆé€’å½’ï¼‰o(n)
+ * LCA¶þ²æÊ÷µÄ×î½ü¹«¹²×æÏÈ£¨µÝ¹é£©o(n)
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
@@ -11,13 +11,13 @@ class Solution {
         TreeNode left = lowestCommonAncestor(root.left, p, q);
         TreeNode right = lowestCommonAncestor(root.right, p, q);
         if (left != null && right == null) {
-            //å·¦å­æ ‘ä¸Šèƒ½æ‰¾åˆ°ï¼Œä½†æ˜¯å³å­æ ‘ä¸Šæ‰¾ä¸åˆ°ï¼Œæ­¤æ—¶å°±åº”å½“ç›´æŽ¥è¿”å›žå·¦å­æ ‘çš„æŸ¥æ‰¾ç»“æžœ
+            //×ó×ÓÊ÷ÉÏÄÜÕÒµ½£¬µ«ÊÇÓÒ×ÓÊ÷ÉÏÕÒ²»µ½£¬´ËÊ±¾ÍÓ¦µ±Ö±½Ó·µ»Ø×ó×ÓÊ÷µÄ²éÕÒ½á¹û
             return left;
         } else if (left == null) {
-            //å³å­æ ‘ä¸Šèƒ½æ‰¾åˆ°ï¼Œä½†æ˜¯å·¦å­æ ‘ä¸Šæ‰¾ä¸åˆ°ï¼Œæ­¤æ—¶å°±åº”å½“ç›´æŽ¥è¿”å›žå³å­æ ‘çš„æŸ¥æ‰¾ç»“æžœ
+            //ÓÒ×ÓÊ÷ÉÏÄÜÕÒµ½£¬µ«ÊÇ×ó×ÓÊ÷ÉÏÕÒ²»µ½£¬´ËÊ±¾ÍÓ¦µ±Ö±½Ó·µ»ØÓÒ×ÓÊ÷µÄ²éÕÒ½á¹û
             return right;
         }
-        //å·¦å³å­æ ‘ä¸Šå‡èƒ½æ‰¾åˆ°ï¼Œè¯´æ˜Žæ­¤æ—¶çš„pç»“ç‚¹å’Œqç»“ç‚¹åˆ†å±…rootç»“ç‚¹ä¸¤ä¾§ï¼Œæ­¤æ—¶å°±åº”å½“ç›´æŽ¥è¿”å›žrootç»“ç‚¹
+        //×óÓÒ×ÓÊ÷ÉÏ¾ùÄÜÕÒµ½£¬ËµÃ÷´ËÊ±µÄp½áµãºÍq½áµã·Ö¾Óroot½áµãÁ½²à£¬´ËÊ±¾ÍÓ¦µ±Ö±½Ó·µ»Øroot½áµã
         return root;
     }
 }

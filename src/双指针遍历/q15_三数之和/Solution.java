@@ -1,9 +1,9 @@
-package åŒæŒ‡é’ˆéå†.q15_ä¸‰æ•°ä¹‹å’Œ;
+package Ë«Ö¸Õë±éÀú.q15_ÈıÊıÖ®ºÍ;
 
 import java.util.*;
 
 /**
- * æ•°ç»„éå† + åŒæŒ‡é’ˆéå† o(n^2)
+ * Êı×é±éÀú + Ë«Ö¸Õë±éÀú o(n^2)
  */
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {

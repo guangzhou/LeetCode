@@ -1,7 +1,7 @@
-package 双指针遍历.q121_买卖股票的最佳时机;
+package ˫ָ�����.q121_������Ʊ�����ʱ��;
 
 /**
- * 维护一个最低股价变量，同时维护当前收益o(n)
+ * ά��һ����͹ɼ۱�����ͬʱά����ǰ����o(n)
  */
 class Solution {
     public int maxProfit(int[] prices) {

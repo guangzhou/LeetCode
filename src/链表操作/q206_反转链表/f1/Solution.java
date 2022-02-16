@@ -1,7 +1,7 @@
-package 閾捐〃鎿嶄綔.q206_鍙嶈浆閾捐〃.f1;
+package 链表操作.q206_反转链表.f1;
 
 /**
- * 閬嶅巻鐩存帴鍙嶅悜淇敼next鎸囬拡 o(n)
+ * 遍历直接反向修改next指针 o(n)
  */
 class Solution {
 

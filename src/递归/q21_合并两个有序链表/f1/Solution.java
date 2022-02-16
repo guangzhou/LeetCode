@@ -1,7 +1,7 @@
-package é€’å½’.q21_åˆå¹¶ä¸¤ä¸ªæœ‰åºé“¾è¡¨.f1;
+package µİ¹é.q21_ºÏ²¢Á½¸öÓĞĞòÁ´±í.f1;
 
 /**
- * æ’é˜Ÿæ³• - éå†è¿­ä»£ o(n)
+ * ²å¶Ó·¨ - ±éÀúµü´ú o(n)
  */
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

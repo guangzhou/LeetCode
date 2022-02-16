@@ -1,4 +1,4 @@
-package 鏍戠殑閬嶅巻.q94_浜屽弶鏍戠殑涓簭閬嶅巻;
+package 树的遍历.q94_二叉树的中序遍历;
 
 public class TreeNode {
     int val;

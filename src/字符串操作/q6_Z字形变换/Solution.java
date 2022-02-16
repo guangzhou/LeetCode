@@ -1,10 +1,10 @@
-package å­—ç¬¦ä¸²æ“ä½œ.q6_Zå­—å½¢å˜æ¢;
+package ×Ö·û´®²Ù×÷.q6_Z×ÖĞÎ±ä»»;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * o(n) å¯ç”¨ä¸€booleanå˜é‡ä»£æ›¿æ±‚ä½™æ“ä½œ
+ * o(n) ¿ÉÓÃÒ»boolean±äÁ¿´úÌæÇóÓà²Ù×÷
  */
 public class Solution {
     public String convert(String s, int numRows) {

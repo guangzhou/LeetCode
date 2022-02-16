@@ -1,7 +1,7 @@
-package åŠ¨æ€è§„åˆ’.q746_ä½¿ç”¨æœ€å°èŠ±è´¹çˆ¬æ¥¼æ¢¯;
+package ¶¯Ì¬¹æ»®.q746_Ê¹ÓÃ×îĞ¡»¨·ÑÅÀÂ¥Ìİ;
 
 /**
- * åŠ¨æ€è§„åˆ’ o(n) f[i] = cost[i] + min(f[i+1], f[i+2])
+ * ¶¯Ì¬¹æ»® o(n) f[i] = cost[i] + min(f[i+1], f[i+2])
  */
 class Solution {
     public int minCostClimbingStairs(int[] cost) {

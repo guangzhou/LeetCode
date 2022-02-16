@@ -1,10 +1,10 @@
-package 鏁扮粍鎿嶄綔.q54_铻烘棆鐭╅樀;
+package 数组操作.q54_螺旋矩阵;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 鏂瑰悜鍙橀噺妯℃嫙璺緞 o(n)
+ * 方向变量模拟路径 o(n)
  */
 public class Solution {
 

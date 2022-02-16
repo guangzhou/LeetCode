@@ -1,11 +1,11 @@
-package æ ‘çš„éå†.q145_äºŒå‰æ ‘çš„ååºéå†;
+package Ê÷µÄ±éÀú.q145_¶ş²æÊ÷µÄºóĞò±éÀú;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
 /**
- * éé€’å½’æ³• o(n)
+ * ·Çµİ¹é·¨ o(n)
  */
 public class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {

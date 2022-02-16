@@ -1,7 +1,7 @@
-package 回溯法.q10_正则表达式匹配;
+package ���ݷ�.q10_�������ʽƥ��;
 
 /**
- * 回溯法 对于*字符，可以直接忽略模式串中这一部分，或者删除匹配串的第一个字符，前提是它能够匹配模式串当前位置字符，即 pattern[0]。如果两种操作中有任何一种使得剩下的字符串能匹配，那么初始时，匹配串和模式串就可以被匹配。
+ * ���ݷ� ����*�ַ�������ֱ�Ӻ���ģʽ������һ���֣�����ɾ��ƥ�䴮�ĵ�һ���ַ���ǰ�������ܹ�ƥ��ģʽ����ǰλ���ַ����� pattern[0]��������ֲ��������κ�һ��ʹ��ʣ�µ��ַ�����ƥ�䣬��ô��ʼʱ��ƥ�䴮��ģʽ���Ϳ��Ա�ƥ�䡣
  */
 public class Solution {
     public boolean isMatch(String text, String pattern) {

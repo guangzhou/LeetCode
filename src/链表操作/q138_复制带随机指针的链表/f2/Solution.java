@@ -1,7 +1,7 @@
-package é“¾è¡¨æ“ä½œ.q138_å¤åˆ¶å¸¦éšæœºæŒ‡é’ˆçš„é“¾è¡¨.f2;
+package Á´±í²Ù×÷.q138_¸´ÖÆ´øËæ»úÖ¸ÕëµÄÁ´±í.f2;
 
 /**
- * åœ¨æ¯ä¸€ä¸ªé“¾è¡¨çš„èŠ‚ç‚¹åŽéƒ½æ–°è¿žä¸€ä¸ªèŠ‚ç‚¹ä¹‹åŽæ“ä½œ æ—¶é—´o(n) é¢å¤–ç©ºé—´o(1)
+ * ÔÚÃ¿Ò»¸öÁ´±íµÄ½Úµãºó¶¼ÐÂÁ¬Ò»¸ö½ÚµãÖ®ºó²Ù×÷ Ê±¼äo(n) ¶îÍâ¿Õ¼äo(1)
  */
 public class Solution {
     public Node copyRandomList(Node head) {

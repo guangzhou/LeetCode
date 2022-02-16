@@ -1,9 +1,9 @@
-package æ ˆç›¸å…³.q224_åŸºæœ¬è®¡ç®—å™¨.f1;
+package Õ»Ïà¹Ø.q224_»ù±¾¼ÆËãÆ÷.f1;
 
 import java.util.Stack;
 
 /**
- * åŒæ ˆï¼ˆæ“ä½œæ•°æ ˆ+æ“ä½œç¬¦æ ˆï¼‰o(n)
+ * Ë«Õ»£¨²Ù×÷ÊıÕ»+²Ù×÷·ûÕ»£©o(n)
  */
 public class Solution {
 
@@ -17,7 +17,7 @@ public class Solution {
             if (array[i] == ' ') {
                 continue;
             }
-            // æ•°å­—è¿›è¡Œç´¯åŠ 
+            // Êı×Ö½øĞĞÀÛ¼Ó
             if (isNumber(array[i])) {
                 if (temp == -1) {
                     temp = array[i] - '0';
@@ -25,18 +25,18 @@ public class Solution {
                     temp = temp * 10 + array[i] - '0';
                 }
             } else {
-                //å°†æ•°å­—å…¥æ ˆ
+                //½«Êı×ÖÈëÕ»
                 if (temp != -1) {
                     num.push(temp);
                     temp = -1;
                 }
-                //é‡åˆ°æ“ä½œç¬¦
+                //Óöµ½²Ù×÷·û
                 if (isOperation(array[i] + "")) {
                     while (!op.isEmpty()) {
                         if (op.peek() == '(') {
                             break;
                         }
-                        //ä¸åœçš„å‡ºæ ˆï¼Œè¿›è¡Œè¿ç®—ï¼Œå¹¶å°†ç»“æœå†æ¬¡å‹å…¥æ ˆä¸­
+                        //²»Í£µÄ³öÕ»£¬½øĞĞÔËËã£¬²¢½«½á¹ûÔÙ´ÎÑ¹ÈëÕ»ÖĞ
                         int num1 = num.pop();
                         int num2 = num.pop();
                         if (op.pop() == '+') {
@@ -46,14 +46,14 @@ public class Solution {
                         }
 
                     }
-                    //å½“å‰è¿ç®—ç¬¦å…¥æ ˆ
+                    //µ±Ç°ÔËËã·ûÈëÕ»
                     op.push(array[i]);
                 } else {
-                    //é‡åˆ°å·¦æ‹¬å·ï¼Œç›´æ¥å…¥æ ˆ
+                    //Óöµ½×óÀ¨ºÅ£¬Ö±½ÓÈëÕ»
                     if (array[i] == '(') {
                         op.push(array[i]);
                     }
-                    //é‡åˆ°å³æ‹¬å·ï¼Œä¸åœçš„è¿›è¡Œè¿ç®—ï¼Œç›´åˆ°é‡åˆ°å·¦æ‹¬å·
+                    //Óöµ½ÓÒÀ¨ºÅ£¬²»Í£µÄ½øĞĞÔËËã£¬Ö±µ½Óöµ½×óÀ¨ºÅ
                     if (array[i] == ')') {
                         while (op.peek() != '(') {
                             int num1 = num.pop();
@@ -73,7 +73,7 @@ public class Solution {
         if (temp != -1) {
             num.push(temp);
         }
-        //å°†æ ˆä¸­çš„å…¶ä»–å…ƒç´ ç»§ç»­è¿ç®—
+        //½«Õ»ÖĞµÄÆäËûÔªËØ¼ÌĞøÔËËã
         while (!op.isEmpty()) {
             int num1 = num.pop();
             int num2 = num.pop();

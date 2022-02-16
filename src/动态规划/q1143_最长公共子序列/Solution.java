@@ -1,9 +1,9 @@
-package åŠ¨æ€è§„åˆ’.q1143_æœ€é•¿å…¬å…±å­åºåˆ—;
+package ¶¯Ì¬¹æ»®.q1143_×î³¤¹«¹²×ÓÐòÁÐ;
 
 /**
- * åŠ¨æ€è§„åˆ’ dp[i + 1][j + 1] = Math.max(dp[i+1][j], dp[i][j+1]) o(m*n)
+ * ¶¯Ì¬¹æ»® dp[i + 1][j + 1] = Math.max(dp[i+1][j], dp[i][j+1]) o(m*n)
  *
- * è‹¥é¢˜ç›®ä¸ºæœ€é•¿å…¬å…±å­ä¸²ï¼Œåˆ™åœ¨c1,c2ä¸ç›¸ç­‰æ—¶ä¸åšå¤„ç†ï¼ˆèµ‹å€¼0ï¼‰ï¼Œåœ¨éåŽ†è¿‡ç¨‹ä¸­è®°å½•æœ€å¤§å€¼å³å¯
+ * ÈôÌâÄ¿Îª×î³¤¹«¹²×Ó´®£¬ÔòÔÚc1,c2²»ÏàµÈÊ±²»×ö´¦Àí£¨¸³Öµ0£©£¬ÔÚ±éÀú¹ý³ÌÖÐ¼ÇÂ¼×î´óÖµ¼´¿É
  */
 public class Solution {
 

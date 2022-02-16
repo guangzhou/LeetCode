@@ -1,4 +1,4 @@
-package 閾捐〃鎿嶄綔.q138_澶嶅埗甯﹂殢鏈烘寚閽堢殑閾捐〃.f1;
+package 链表操作.q138_复制带随机指针的链表.f1;
 
 class Node {
     int val;

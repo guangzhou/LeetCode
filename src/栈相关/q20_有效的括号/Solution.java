@@ -1,9 +1,9 @@
-package æ ˆç›¸å…³.q20_æœ‰æ•ˆçš„æ‹¬å·;
+package Õ»Ïà¹Ø.q20_ÓĞĞ§µÄÀ¨ºÅ;
 
 import java.util.Stack;
 
 /**
- * åˆ©ç”¨æ ˆ o(n)
+ * ÀûÓÃÕ» o(n)
  */
 public class Solution {
     public boolean isValid(String s) {

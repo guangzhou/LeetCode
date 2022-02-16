@@ -1,9 +1,9 @@
-package 动态规划.q5_最长回文子串.f2;
+package ��̬�滮.q5_������Ӵ�.f2;
 
 /**
- * 动态规划 o(n^2)
- * 转移方程：字符串两边界值相等并且子字符串是回文字符串则该字符串是回文字符串
- * dp数组含义：字符串s从i到j的索引子字符串是否是回文字符串
+ * ��̬�滮 o(n^2)
+ * ת�Ʒ��̣��ַ������߽�ֵ��Ȳ������ַ����ǻ����ַ�������ַ����ǻ����ַ���
+ * dp���麬�壺�ַ���s��i��j���������ַ����Ƿ��ǻ����ַ���
  */
 public class Solution {
     public String longestPalindrome(String s) {

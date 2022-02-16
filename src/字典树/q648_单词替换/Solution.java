@@ -1,9 +1,9 @@
-package å­—å…¸æ ‘.q648_å•è¯æ›¿æ¢;
+package ×ÖµäÊ÷.q648_µ¥´ÊÌæ»»;
 
 import java.util.List;
 
 /**
- * æ„å»ºå­—å…¸æ ‘ï¼ˆå‰ç¼€æ ‘ï¼‰o(n)
+ * ¹¹½¨×ÖµäÊ÷£¨Ç°×ºÊ÷£©o(n)
  */
 class Solution {
     public String replaceWords(List<String> roots, String sentence) {

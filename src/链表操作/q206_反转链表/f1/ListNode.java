@@ -1,4 +1,4 @@
-package 閾捐〃鎿嶄綔.q206_鍙嶈浆閾捐〃.f1;
+package 链表操作.q206_反转链表.f1;
 
 public class ListNode {
     int val;

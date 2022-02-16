@@ -1,7 +1,7 @@
-package åŠ¨æ€è§„åˆ’.q53_æœ€å¤§å­åºå’Œ.f1;
+package ¶¯Ì¬¹æ»®.q53_×î´ó×ÓĞòºÍ.f1;
 
 /**
- * è´ªå¿ƒæ³• éå†ä¸€æ¬¡ o(n)
+ * Ì°ĞÄ·¨ ±éÀúÒ»´Î o(n)
  */
 public class Solution {
     public int maxSubArray(int[] nums) {

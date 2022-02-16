@@ -1,9 +1,9 @@
-package å›æº¯æ³•.q40_ç»„åˆæ€»å’Œ2;
+package »ØËİ·¨.q40_×éºÏ×ÜºÍ2;
 
 import java.util.*;
 
 /**
- * å›æº¯æ³• O(n*log(n))
+ * »ØËİ·¨ O(n*log(n))
  */
 class Solution {
 

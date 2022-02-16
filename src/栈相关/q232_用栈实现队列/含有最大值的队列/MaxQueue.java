@@ -1,4 +1,4 @@
-package æ ˆç›¸å…³.q232_ç”¨æ ˆå®ç°é˜Ÿåˆ—.å«æœ‰æœ€å¤§å€¼çš„é˜Ÿåˆ—;
+package Õ»Ïà¹Ø.q232_ÓÃÕ»ÊµÏÖ¶ÓÁĞ.º¬ÓĞ×î´óÖµµÄ¶ÓÁĞ;
 
 import java.util.LinkedList;
 import java.util.Queue;

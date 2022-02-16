@@ -1,11 +1,11 @@
-package 鏁扮粍鎿嶄綔.q384_鎵撲贡鏁扮粍;
+package 数组操作.q384_打乱数组;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 /**
- * 娲楃墝绠楁硶 o(n)
+ * 洗牌算法 o(n)
  */
 public class Solution {
     private int[] array;

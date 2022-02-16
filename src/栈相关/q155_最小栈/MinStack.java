@@ -1,9 +1,9 @@
-package æ ˆç›¸å…³.q155_æœ€å°æ ˆ;
+package Õ»Ïà¹Ø.q155_×îĞ¡Õ»;
 
 import java.util.Stack;
 
 /**
- * ä¸ä½¿ç”¨è¾…åŠ©æ ˆï¼Œæ¯æ¬¡pushä¸¤ä¸ªå…ƒç´ 
+ * ²»Ê¹ÓÃ¸¨ÖúÕ»£¬Ã¿´ÎpushÁ½¸öÔªËØ
  */
 public class MinStack {
 
