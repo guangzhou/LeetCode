@@ -1,7 +1,7 @@
-package äºŒå‰æœç´¢æ ‘ç›¸å…³.q98_éªŒè¯äºŒå‰æœç´¢æ ‘.f2;
+package ¶ş²æËÑË÷Ê÷Ïà¹Ø.q98_ÑéÖ¤¶ş²æËÑË÷Ê÷.f2;
 
 /**
- * å¯»æ‰¾ä¸Šä¸‹ç•Œé€’å½’ o(n)
+ * Ñ°ÕÒÉÏÏÂ½çµİ¹é o(n)
  */
 public class Solution {
     public boolean valid(TreeNode root, Integer min, Integer max) {

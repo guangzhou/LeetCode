@@ -1,4 +1,4 @@
-package hash鐩稿叧.q387_瀛楃涓蹭腑鐨勭涓�涓敮涓�瀛楃;
+package hash相关.q387_字符串中的第一个唯一字符;
 
 import java.util.HashMap;
 

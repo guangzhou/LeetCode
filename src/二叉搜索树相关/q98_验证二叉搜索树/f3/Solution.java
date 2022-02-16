@@ -1,10 +1,10 @@
-package äºŒå‰æœç´¢æ ‘ç›¸å…³.q98_éªŒè¯äºŒå‰æœç´¢æ ‘.f3;
+package ¶ş²æËÑË÷Ê÷Ïà¹Ø.q98_ÑéÖ¤¶ş²æËÑË÷Ê÷.f3;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * å±‚åºéå†è¿­ä»£æ³•åˆ¤æ–­ä¸Šä¸‹ç•Œ o(n)
+ * ²ãĞò±éÀúµü´ú·¨ÅĞ¶ÏÉÏÏÂ½ç o(n)
  */
 public class Solution {
     public boolean isValidBST(TreeNode root) {

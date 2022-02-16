@@ -1,7 +1,7 @@
-package äºŒå‰æœç´¢æ ‘ç›¸å…³.q450_åˆ é™¤äºŒå‰æœç´¢æ ‘ä¸­çš„èŠ‚ç‚¹;
+package ¶ş²æËÑË÷Ê÷Ïà¹Ø.q450_É¾³ı¶ş²æËÑË÷Ê÷ÖĞµÄ½Úµã;
 
 /**
- * ç”¨å‰é©±èŠ‚ç‚¹ä»£æ›¿å¾…åˆ é™¤çš„èŠ‚ç‚¹ o(log(n))
+ * ÓÃÇ°Çı½Úµã´úÌæ´ıÉ¾³ıµÄ½Úµã o(log(n))
  */
 public class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
@@ -25,10 +25,10 @@ public class Solution {
         if (root.right == null) {
             return root.left;
         }
-        //æ±‚å‰é©±èŠ‚ç‚¹
+        //ÇóÇ°Çı½Úµã
         TreeNode predecessor = maximum(root.left);
         TreeNode predecessorCopy = new TreeNode(predecessor.val);
-        //å…ˆremoveå†è¡”æ¥
+        //ÏÈremoveÔÙÏÎ½Ó
         predecessorCopy.left = removeMax(root.left);
         predecessorCopy.right = root.right;
         root.left = null;
@@ -37,7 +37,7 @@ public class Solution {
     }
 
     /**
-     * ä¸¤ç§æƒ…å†µï¼Œä¸€ç§ node.right == null è¯´æ˜å‰é©±èŠ‚ç‚¹ä¸ºåˆ é™¤èŠ‚ç‚¹çš„å·¦èŠ‚ç‚¹ï¼Œå¦åˆ™ä¸ºåˆ é™¤èŠ‚ç‚¹çš„å³ä¾§å¶èŠ‚ç‚¹ï¼ˆå¯¹åº”maximum(root.left)ï¼‰
+     * Á½ÖÖÇé¿ö£¬Ò»ÖÖ node.right == null ËµÃ÷Ç°Çı½ÚµãÎªÉ¾³ı½ÚµãµÄ×ó½Úµã£¬·ñÔòÎªÉ¾³ı½ÚµãµÄÓÒ²àÒ¶½Úµã£¨¶ÔÓ¦maximum(root.left)£©
      *
      * @param node
      * @return

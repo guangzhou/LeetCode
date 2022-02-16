@@ -1,10 +1,10 @@
-package hash鐩稿叧.q1_涓ゆ暟涔嬪拰.f2;
+package hash相关.q1_两数之和.f2;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 涓�閬峢ash o(n)
+ * 一遍hash o(n)
  */
 public class Solution {
     public int[] twoSum(int[] nums, int target) {

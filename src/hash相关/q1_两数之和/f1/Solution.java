@@ -1,7 +1,7 @@
-package hashç›¸å…³.q1_ä¸¤æ•°ä¹‹å’Œ.f1;
+package hashÏà¹Ø.q1_Á½ÊıÖ®ºÍ.f1;
 
 /**
- * æš´åŠ›æ³• o(n^2)
+ * ±©Á¦·¨ o(n^2)
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
